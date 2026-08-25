@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Naman105/DSA/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/Naman105/DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
