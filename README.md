@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naman105/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Naman105/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
