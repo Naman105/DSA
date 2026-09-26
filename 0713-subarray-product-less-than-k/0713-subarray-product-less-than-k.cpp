@@ -9,7 +9,7 @@ public:
 
       product *= nums[high];
 
-       while(product >= k && low<nums.size()) {
+       while(product >= k ) {
            product = product/nums[low];
            low++;
        }
