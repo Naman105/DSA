@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Naman105/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Naman105/DSA/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Naman105/DSA/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naman105/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
