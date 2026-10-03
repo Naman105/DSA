@@ -13,13 +13,13 @@ public:
             if(mp.size()==k){
                 res=max(res,sum);
             }
-            sum=sum-nums[low];
-            mp[nums[low]]--;
             low++;
             high++;
             if(high==nums.size())
                   break;
-            sum=sum+nums[high];           
+            sum=sum-nums[low-1];
+            sum=sum+nums[high];
+            mp[nums[low-1]]--;
             mp[nums[high]]++;
             if(mp[nums[low-1]]==0)
                mp.erase(nums[low-1]);
