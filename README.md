@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Naman105/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Naman105/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naman105/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Naman105/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Naman105/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naman105/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Naman105/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Naman105/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naman105/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Naman105/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
