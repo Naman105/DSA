@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        long long  y,rev=0,dup=x;
+        long long rev=0,dup=x;
 
         if(x<0) return false;
 
