@@ -7,7 +7,7 @@ public:
             int oldNoDel=noDel;
             int oldOneDel=oneDel;
 
-            noDel=max(oldNoDel+arr[i],arr[i]);
+            noDel=max(noDel+arr[i],arr[i]);
 
             if(oldOneDel==INT_MIN) v=arr[i];
             else v=oldOneDel+arr[i];
