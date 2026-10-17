@@ -7,8 +7,8 @@ public:
             int oldMax=maxEnd;
             int oldMin=minEnd;
 
-            maxEnd=max(nums[i],max(oldMax*nums[i],oldMin*nums[i]));
-            minEnd=min(nums[i],min(oldMax*nums[i],oldMin*nums[i]));
+            maxEnd=max(nums[i],max(maxEnd*nums[i],minEnd*nums[i]));
+            minEnd=min(nums[i],min(oldMax*nums[i],minEnd*nums[i]));
             ans=max(ans,maxEnd);
         }
 
