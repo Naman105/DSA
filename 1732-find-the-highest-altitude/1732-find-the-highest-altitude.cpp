@@ -6,7 +6,6 @@ public:
         for(int i=0;i<gain.size();i++){
             currentAltitude += gain[i];
             maxAltitude=max(currentAltitude,maxAltitude);
-
         }
 
         return maxAltitude;
